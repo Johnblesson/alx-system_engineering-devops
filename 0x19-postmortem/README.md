@@ -7,11 +7,11 @@ DevOpsSysAdmin
 -   Weight: 1
 -   Project over - took place from
 
-    June 5, 2023
+    June 10, 2023, 09:00 AM - June 10, 2023,
 
     to
 
-    June 12, 2023
+    June 12, 2023, 12:30 PM
 
 
 ### Concepts
